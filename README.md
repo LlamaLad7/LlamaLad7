@@ -16,6 +16,7 @@ My pronouns are he/him.
 
 #### 🌠 What I use
 
+<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/antlr.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/cplusplus.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/css3.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/gradle.svg"></code>
