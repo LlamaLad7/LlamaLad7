@@ -2,21 +2,6 @@
 
 ### Hi, there! 👋
 
-<!--
-**LlamaLad7/LlamaLad7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hello! I'm LlamaLad7 (Llama for short), a 15-year-old developer ✍ from the UK ☕ !
 
 My pronouns are he/him.
@@ -33,6 +18,7 @@ My pronouns are he/him.
 
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/cplusplus.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/css3.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/gradle.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/html5.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/intellijidea.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/java.svg"></code>
