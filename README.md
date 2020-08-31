@@ -1,3 +1,4 @@
+<!-- Thanks to KodingDev for the design: https://github.com/KodingDev -->
 <img align="left" alt="Avatar" width="200px" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/avatar.png" />
 
 ### Hi, there! 👋
