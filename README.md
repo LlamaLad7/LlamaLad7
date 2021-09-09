@@ -14,6 +14,7 @@ My pronouns are he/him.
 #### 🔭 What I'm working on
 * My programming language, [Pseudo](https://github.com/LlamaLad7/pseudo-kt)
 * A variety of Minecraft mods with [Sk1er LLC](https://github.com/Sk1erLLC/)
+* The mod you need for Minecraft Java edition: [Essential Mod](https://essential.gg/)
 
 #### 🌠 What I use
 
