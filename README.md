@@ -13,21 +13,27 @@ My pronouns are he/him.
 
 #### 🔭 What I'm working on
 * My programming language, [Pseudo](https://github.com/LlamaLad7/pseudo-kt)
-* A variety of Minecraft mods with [Sk1er LLC](https://github.com/Sk1erLLC/)
+* A variety of Minecraft mods and libraries with [Sk1er LLC](https://github.com/Sk1erLLC/)
 * The mod you need for Minecraft Java edition: [Essential Mod](https://essential.gg/)
 
 #### 🌠 What I use
 
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/antlr.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/cplusplus.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/css3.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/gradle.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/html5.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/intellijidea.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/java.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/javascript.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/kotlin.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/LlamaLad7/LlamaLad7/master/assets/python.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/company/brand/logos/WebStorm_icon.svg"></code>
+<code><img height="20" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
 
 #### 📫 How to reach me
 Feel free to add me on discord (LlamaLad7#7444), or if you have a question/problem directly relating to one of my projects, you can open an issue.
