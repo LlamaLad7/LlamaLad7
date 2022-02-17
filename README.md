@@ -11,10 +11,11 @@ My pronouns are he/him.
 <br />
 <br />
 
-#### 🔭 What I'm working on
-* My programming language, [Pseudo](https://github.com/LlamaLad7/pseudo-kt)
+#### 🔭 Projects
+* [MixinExtras](https://github.com/LlamaLad7/MixinExtras), an extension library for popular library [Mixin](https://github.com/SpongePowered/Mixin/)
 * A variety of Minecraft mods and libraries with [Sk1er LLC](https://github.com/Sk1erLLC/)
 * The mod you need for Minecraft Java edition: [Essential Mod](https://essential.gg/)
+* My programming language, [Pseudo](https://github.com/LlamaLad7/pseudo-kt)
 
 #### 🌠 What I use
 
