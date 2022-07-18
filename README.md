@@ -13,9 +13,12 @@ My pronouns are he/him.
 
 #### 🔭 Projects
 * [MixinExtras](https://github.com/LlamaLad7/MixinExtras), an extension library for popular library [Mixin](https://github.com/SpongePowered/Mixin/)
+* [Lunar Client](https://www.lunarclient.com/), a modpack for all modern versions of Minecraft. I'm mainly working on our version-independent modding platform.
+* My programming language, [Pseudo](https://github.com/LlamaLad7/pseudo-kt)
+
+#### 🔭 Past Projects
 * A variety of Minecraft mods and libraries with [Sk1er LLC](https://github.com/Sk1erLLC/) and [Essential](https://github.com/EssentialGG/)
 * The mod you need for Minecraft Java edition: [Essential Mod](https://essential.gg/)
-* My programming language, [Pseudo](https://github.com/LlamaLad7/pseudo-kt)
 
 #### 🌠 What I use
 
