@@ -40,7 +40,10 @@ My pronouns are he/him.
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
 
 #### 📫 How to reach me
-Join [my discord](https://llama.is-a.dev/discord) if you have any questions/problems/thoughts about my projects.
+Join my discord if you have any questions/problems/thoughts about my projects:
+
+[![](https://dcbadge.vercel.app/api/server/VUkAeRYqdH)](https://llama.is-a.dev/discord)
+
 If you believe you've found a bug then feel free to open an issue.
 
 #### 📈 Stats
