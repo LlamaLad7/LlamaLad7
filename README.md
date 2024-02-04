@@ -40,7 +40,8 @@ My pronouns are he/him.
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
 
 #### 📫 How to reach me
-Feel free to add me on discord (LlamaLad7#7444), or if you have a question/problem directly relating to one of my projects, you can open an issue.
+Join [my discord](https://llama.is-a.dev/discord) if you have any questions/problems/thoughts about my projects.
+If you believe you've found a bug then feel free to open an issue.
 
 #### 📈 Stats
 
