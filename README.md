@@ -37,7 +37,7 @@ My pronouns are he/him.
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/company/brand/logos/CLion_icon.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg"></code>
 
 #### 📫 How to reach me
 Join my discord if you have any questions/problems/thoughts about my projects:
