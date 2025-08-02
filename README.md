@@ -3,7 +3,7 @@
 
 ### Hi, there! 👋
 
-Hello! I'm LlamaLad7 (Llama for short), a 19-year-old developer ✍ from the UK ☕ !
+Hello! I'm LlamaLad7 (Llama for short), a developer ✍ from the UK ☕ !
 
 My pronouns are he/him.
 
